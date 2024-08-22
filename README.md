@@ -30,7 +30,8 @@ By gaining insights into the needs, preferences, and behaviors of the r/forevera
 
 To measure our success, we aim for at least 20% of the expressed sentiment from users to be positive after the community is established.
 
-![Depressed-cat](https://github.com/user-attachments/assets/19cff71e-1c2f-4730-9c33-c80c48c6c19f)
+![XZ9](https://github.com/user-attachments/assets/a4eff128-006a-4fee-b963-e3f69c324aa8)
+
 
 I have uploaded the following files for my project onto Github:
 1) Python Notebook (Project Assignment Finalized and Business Goal measurements)
@@ -39,6 +40,7 @@ I have uploaded the following files for my project onto Github:
 
 
 What greater gift than the love of a cat - Charles Dickens :smile: 🐱
+![giphy](https://github.com/user-attachments/assets/3a538522-be00-4c9f-aebd-c17a30746590)
 
 Hope you enjoy my work!
 
