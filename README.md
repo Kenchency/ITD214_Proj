@@ -49,7 +49,7 @@ What greater gift than the love of a cat - Charles Dickens :smile: 🐱
 Hope you enjoy my work!
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#itd214_proj">back to top</a>)</p>
 
 ## About the Assignment
 
@@ -92,7 +92,7 @@ In my write up, I have include the following:
 7. **Learning & Observation**
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#itd214_proj">back to top</a>)</p>
 
 ## Data Sets
 
@@ -102,7 +102,7 @@ I have also uploaded the following datasets used for my project:
 2. **`foreveralone.csv`** - This is the primary dataset used for data preparation, model analysis, and related tasks.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#itd214_proj">back to top</a>)</p>
 
 ## Project Python Notebook File
 
@@ -113,7 +113,7 @@ The following Python notebook files are utilized for my project:
 2. **`ITD214 Business_Goals (Measurement).ipynb`**: This notebook is used with the `lonely.csv` dataset to measure the business goals outlined in the project.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#itd214_proj">back to top</a>)</p>
 
 ## Contact
 
@@ -123,4 +123,4 @@ The following Python notebook files are utilized for my project:
 **Email:** [chen.cy.ken@gmail.com](mailto:chen.cy.ken@gmail.com)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#itd214_proj">back to top</a>)</p>
