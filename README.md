@@ -15,7 +15,8 @@
 
 ## Listen whilst checking out my page
 
-[![Thumbnail]([[https://img.youtube.com/vi/Sx4xVyXHl60/maxresdefault.jpg](https://highxtar.com/wp-content/uploads/2023/02/thumb-studio.ghibli-catbus.jpg)](https://www.youtube.com/watch?v=Sx4xVyXHl60&t=220s&pp=ygUSZ2hpYmx5IG11c2ljIHJlbGF4))](https://www.youtube.com/watch?v=Sx4xVyXHl60&t=220s)
+[![Thumbnail](https://img.youtube.com/vi/Sx4xVyXHl60/maxresdefault.jpg)](https://www.youtube.com/watch?v=Sx4xVyXHl60&t=220s)
+
 
 
 ## About The Project
