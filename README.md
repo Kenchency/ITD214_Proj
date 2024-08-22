@@ -12,11 +12,14 @@
   </ol>
 </details>
 
+## Welcome to My Project! 😄
+
+Feel free to explore and have fun! :smiley:
 
 ## Background Music for Your Browsing Experience
+Make sure you open link in a new tab  😝
 
 [![Thumbnail](https://img.youtube.com/vi/Sx4xVyXHl60/maxresdefault.jpg)](https://www.youtube.com/watch?v=Sx4xVyXHl60&t=220s)
-
 
 
 ## About The Project
