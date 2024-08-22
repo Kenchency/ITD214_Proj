@@ -7,18 +7,19 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <a href="#About the Assignment">About the Assignment</a></li>
+        <li><a href="#about-the-assignment">About the Assignment</a></li>
       </ul>
     </li>
     <li>
-      <a href="#Data Sets">Data Sets</a>
+      <a href="#data-sets">Data Sets</a>
       <ul>
-        <a href="#Project Python Notebook File">Project Python Notebook File</a></li>
+        <li><a href="#project-python-notebook-file">Project Python Notebook File</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
 
 ## About The Project
 
