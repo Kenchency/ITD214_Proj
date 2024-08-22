@@ -23,7 +23,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]([https://example.com](https://www.channelnewsasia.com/singapore/mental-health-services-polyclinics-gp-singapore-dream-insurance-coverage-lawrence-wong-4106136))
+![Depressed-cat](https://github.com/user-attachments/assets/19cff71e-1c2f-4730-9c33-c80c48c6c19f)
 
 In a recent survey reported by Channel News Asia, it was found that the prevalence of mental health issues in Singapore is rising, with young adults having the highest proportion at 25.3%. In February 2024, Deputy Prime Minister Lawrence Wong passed a motion on advancing mental health, highlighting the growing importance of this issue both in Singapore and globally.
 As part of a support group initiative, this project aims to develop a platform focused on providing emotional support, fostering a sense of community, and ensuring anonymity for those seeking help. By applying machine learning models such as Support Vector Machine (SVM), Random Forest and conducting correlation analysis, this study seeks to predict the likelihood of depression and identify the most influential features. 
