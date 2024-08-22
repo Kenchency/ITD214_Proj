@@ -30,7 +30,8 @@ By gaining insights into the needs, preferences, and behaviors of the r/forevera
 
 To measure our success, we aim for at least 20% of the expressed sentiment from users to be positive after the community is established.
 
-![XZ9](https://github.com/user-attachments/assets/a4eff128-006a-4fee-b963-e3f69c324aa8)
+ ![tumblr_2ef49fa55eb82526aa81dfe6e3276a12_c8135ac5_400](https://github.com/user-attachments/assets/b631ff27-ff52-45c4-bde1-e428bb02c102)
+
 
 
 I have uploaded the following files for my project onto Github:
