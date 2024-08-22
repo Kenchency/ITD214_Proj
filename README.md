@@ -39,7 +39,8 @@ Hope you enjoy my work!
 
 ## About the Assignment
 
-![240522286_10158550181058067_5582075181331768417_n](https://github.com/user-attachments/assets/4d99eb4e-fe1a-4ebc-8075-bddaed53ebdd)
+![maxresdefault](https://github.com/user-attachments/assets/cbb2e405-9f5e-41c1-8d5f-1705af63ae8c)
+
 
 In a recent survey reported by Channel News Asia, it was found that the prevalence of mental health issues in Singapore is rising, with young adults having the highest proportion at 25.3%. In February 2024, Deputy Prime Minister Lawrence Wong passed a motion on advancing mental health, highlighting the growing importance of this issue both in Singapore and globally.
 As part of a support group initiative, this project aims to develop a platform focused on providing emotional support, fostering a sense of community, and ensuring anonymity for those seeking help. By applying machine learning models such as Support Vector Machine (SVM), Random Forest and conducting correlation analysis, this study seeks to predict the likelihood of depression and identify the most influential features. 
