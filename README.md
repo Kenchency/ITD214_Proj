@@ -34,7 +34,6 @@ What greater gift than the love of a cat - Charles Dickens :smile: 🐱
 
 Hope you enjoy my work!
 
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
