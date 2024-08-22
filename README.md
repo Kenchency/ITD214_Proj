@@ -4,21 +4,14 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#about-the-assignment">About the Assignment</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#data-sets">Data Sets</a>
-      <ul>
-        <li><a href="#project-python-notebook-file">Project Python Notebook File</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About the Project</a></li>
+    <li><a href="#about-the-assignment">About the Assignment</a></li>
+    <li><a href="#data-sets">Data Sets</a></li>
+    <li><a href="#project-python-notebook-file">Project Python Notebook File</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
 
 
 ## About The Project
