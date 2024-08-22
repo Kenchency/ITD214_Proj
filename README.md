@@ -66,13 +66,16 @@ In my write up, I have include the following:
     1.4. Dataset  
 
 2. **Work Accomplished**
+
     2.1. Data Preprocessing  
     2.2. Training and discussion of models  
 
 3. **Analysis**
+
     3.1. Recommendations  
 
 4. **AI Ethics**
+
     4.1. Data Management  
     4.2. AI Internal Governance Structure  
 
