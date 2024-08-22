@@ -59,7 +59,7 @@ The full assignment is uploaded under the file ITD214 Project Assignment.docx
 In my write up, I have include the following:
 
 1. **Introduction and Background**
-    1.1. Project Plan  
+     1.1. Project Plan  
     1.2. Business Goals  
     1.3. Business Objectives  
     1.4. Dataset  
