@@ -7,13 +7,13 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#About the Assignment">About the Assignment</a></li>
+        <a href="#About the Assignment">About the Assignment</a></li>
       </ul>
     </li>
     <li>
       <a href="#Data Sets">Data Sets</a>
       <ul>
-        <li><a href="#Project Python Notebook File">Project Python Notebook File</a></li>
+        <a href="#Project Python Notebook File">Project Python Notebook File</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -34,6 +34,8 @@ I have uploaded the following files for my project onto Github:
 1) Python Notebook (Project Assignment Finalized and Business Goal measurements)
 2) Data sets (Lonely.csv & foreveralone.csv)
 3) Project Assignment writeup
+
+
 What greater gift than the love of a cat - Charles Dickens :smile: 🐱
 
 Hope you enjoy my work!
@@ -91,6 +93,9 @@ The following are two Python notebook files utilized for my project:
 ![ken-joia-ken-streetfighter](https://github.com/user-attachments/assets/642b4757-882c-475d-b2be-80c96774a471)
 
 Name: Ken Chen
+
+
+
 Email: chen.cy.ken@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
