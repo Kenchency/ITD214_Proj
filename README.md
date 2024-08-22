@@ -48,48 +48,61 @@ Leveraging these data-driven insights allows for the identification of key demog
 
 The full assignment is uploaded under the file ITD214 Project Assignment.docx
 
-In my write up,it will include the following:
+In my write up, I have include the following:
 
-1.Introduction and Background
-1.1 Project Plan
-1.2 Business Goals
-1.3 Business Objectives
-1.4 Dataset 
-2.Work Accomplished
-2.1 Data Preprocessing
-2.2 Training and discussion of models
-3.Analysis
-3.1 Recommendations 
-4. AI Ethics
-4.1 Data Management
-4.2 AI Internal Governance Structure
-5. Measuring the business goal
-6. Conclusion
-7. Learning & observation
+1. **Introduction and Background**
+    1.1. Project Plan  
+    1.2. Business Goals  
+    1.3. Business Objectives  
+    1.4. Dataset  
+
+2. **Work Accomplished**
+    2.1. Data Preprocessing  
+    2.2. Training and discussion of models  
+
+3. **Analysis**
+    3.1. Recommendations  
+
+4. **AI Ethics**
+    4.1. Data Management  
+    4.2. AI Internal Governance Structure  
+
+5. **Measuring the Business Goal**
+
+6. **Conclusion**
+
+7. **Learning & Observation**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Data Sets
-I have also uploaded the following data set used for my project.
-1. Lonely.csv - The dataset that was use for measuring the business goal
-2. foreveralone.csv - The main dataset used for my data preperation, model analysis,etc.
+
+I have also uploaded the following datasets used for my project:
+
+1. **`lonely.csv`** - This dataset is used for measuring the business goals.
+2. **`foreveralone.csv`** - This is the primary dataset used for data preparation, model analysis, and related tasks.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Python Notebook File
-The following are two Python notebook files utilized for my project:
-1. ITD214 (Finalized).ipynb: This notebook is used alongside the foreveralone.csv dataset for data preparation, model training, analysis, and discussion of results.
-2. ITD214 Business_Goals (Measurement).ipynb: This notebook is used with the lonely.csv dataset to measure the business goals outlined in the project.
+
+The following Python notebook files are utilized for my project:
+
+1. **`ITD214 (Finalized).ipynb`**: This notebook is used with the `foreveralone.csv` dataset for data preparation, model training, analysis, and discussion of results.
+
+2. **`ITD214 Business_Goals (Measurement).ipynb`**: This notebook is used with the `lonely.csv` dataset to measure the business goals outlined in the project.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## contact
-![ken-joia-ken-streetfighter](https://github.com/user-attachments/assets/642b4757-882c-475d-b2be-80c96774a471)
+## Contact
 
-Name: Ken Chen
+![Ken Chen](https://github.com/user-attachments/assets/642b4757-882c-475d-b2be-80c96774a471)
 
+**Name:** Ken Chen  
+**Email:** [chen.cy.ken@gmail.com](mailto:chen.cy.ken@gmail.com)
 
-
-Email: chen.cy.ken@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
