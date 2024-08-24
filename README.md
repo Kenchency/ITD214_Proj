@@ -14,10 +14,10 @@
 
 ## Welcome to My Project! 😄
 
-Feel free to explore and have fun! :smiley:
+Feel free to explore and have fun! 😃
 
-You can read about my project in the below link too: - This is my first project with GitHub (=>.<=)
-https://github.com/Kenchency/kenchency.github.io/blob/master/_posts/2024-08-01-applied-data-science-project.md
+You can read about my project in the below link too:  
+- [This is my first project with GitHub (=>.<=)](https://github.com/Kenchency/kenchency.github.io/blob/master/_posts/2024-08-01-applied-data-science-project.md)
 
 ## Background Music for Your Browsing Experience
 Make sure you open link in a new tab  😝
